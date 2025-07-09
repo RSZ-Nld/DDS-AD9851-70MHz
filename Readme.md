@@ -17,7 +17,7 @@ Back
 
 Diagram:
 
-![Photo 11](https://github.com/RSZ-Nld/DDS-AD9851_-1-70MHz-/blob/main/Back.JPG)
+![Photo 11](https://github.com/RSZ-Nld/DDS-AD9851_-1-70MHz-/blob/main/Diagram.jpg)
 
 
 Firmware for the PIC18F04Q41
