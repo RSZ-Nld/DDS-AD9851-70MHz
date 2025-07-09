@@ -5,7 +5,7 @@ by Willem den Hollander
 
 
 
-Made a pcb for it, it can be used with a 3,7V Battery:
+Made a pcb for it, it can be used with a 3,7V Battery and the PIC18F04Q41 is used on a adaptor pcb:
 
 
 Photo Front Pcb
