@@ -16,7 +16,9 @@ Back
 ![Photo 10](https://github.com/RSZ-Nld/DDS-AD9851_-1-70MHz-/blob/main/Back.JPG)
 
 
-![Photo 5]()
+Firmware for the PIC18F04Q41
+
+https://github.com/RSZ-Nld/DDS-AD9851_-1-70MHz-/blob/main/230695-007-05-ORIGINAL-FirmwareV1.0.zip
 
 
 
