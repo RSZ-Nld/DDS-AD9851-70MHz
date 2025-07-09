@@ -3,7 +3,7 @@ by Willem den Hollander
 
 AD9851 DDS till 70MHz Sinus and square.
 
-Made a pcb for it:
+Made a pcb for it, it can be used with a 3,7V Battery:
 
 
 Photo Front Pcb
